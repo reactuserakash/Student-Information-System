@@ -1,0 +1,20 @@
+.admin-profile {
+    background-image: url("./../../assets/admin_bg.png");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.admin-profile-header-1 {
+    margin: 0;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.admin-profile-header-2 {
+    margin: 0;
+    font-size:20px;
+    word-spacing: 2px;
+}

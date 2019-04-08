@@ -1,0 +1,55 @@
+.nav-bar {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    font-family: 'Quicksand', sans-serif;        
+  }
+  
+  .nit-dgp-logo {
+    width: 85px;
+    height: 80px;
+    float: left;
+  }
+  
+  .nav-list {
+    width: 590px;
+    float: right;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 3px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.2);
+    margin: 0;
+    margin-top: 10px;
+    list-style: none;
+    text-align: center;
+  }
+  
+  .nav-list li {
+    margin: 0 10px;
+    display: inline-block;
+  }
+  
+  .normal-page-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 17px;
+    font-size: 15px;
+    color: #265DFB;
+  }
+  
+  .normal-page-link-btn {
+    border-color: none;
+    background-color:  rgb(61, 10, 243);
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 17px;
+    font-size: 15px;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  }

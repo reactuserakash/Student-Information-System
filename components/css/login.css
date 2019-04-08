@@ -1,0 +1,96 @@
+.login-page {
+    padding-top: 30px;
+    height: 100vh;
+    background-image: url("./../../assets/login_bg.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Quicksand', sans-serif;    
+}
+
+.main-block {
+    text-align: left;
+    max-width: 45%;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+.choose-button {
+    list-style: none;
+}
+
+.choose-button li {
+    display: inline-block;
+}
+
+.active {
+    background-color:  #265DFB;
+    color: #fff;
+}
+
+.deactive {
+    background-color:  #fff;
+    color: #265DFB;
+}
+
+.student-login-btn,
+.admin-login-btn {
+    cursor: pointer;
+    width: 150px;
+    border: none;
+    border-color: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 17px;
+    font-size: 15px;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
+
+.input-title {
+    margin: 16px 0;
+    margin-bottom: -15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 13px;
+    color: #265DFB;
+
+}
+
+.login-form {
+    list-style: none;
+    margin-top: 30px;
+}
+
+.login-input-box {
+    width: 170px;
+    font-size: 14px;
+    color: #7a7a7a;    
+    height: 20px;
+    padding: 7px 11px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #7a7a7a;
+    margin: 10px 0;
+    
+}
+
+.log-in-btn {
+    cursor: pointer;
+    margin: 16px 0;
+    width: 130px;
+    border: none;
+    border-color: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 17px;
+    font-size: 15px;
+    background-color:  #265DFB;
+    color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}

@@ -1,0 +1,30 @@
+.confirm-page {
+    padding-top: 30px;
+    height: 100vh;
+    background-image: url("./../../assets/home_bg.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Quicksand', sans-serif;    
+}
+
+.result-box {
+    padding-top: 0px;
+    padding-left: 60px;
+    color: red;
+}
+.result-box-1 {
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+.p-1 {
+    margin: 10px 0px;
+    font-size:22px;
+}
+
+.p-2 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    font-size:22px;
+}

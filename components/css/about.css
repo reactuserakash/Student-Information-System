@@ -1,0 +1,33 @@
+.about-page {
+    padding-top: 30px;
+    height: 100vh;
+    background-image: url("./../../assets/about_bg.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.AboutTextDiv {
+    text-align: left;
+    max-width: 50%;
+    margin-left: auto;
+}
+
+.about-header {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    line-height: 70px;
+    color: #353535;
+}
+
+.about-content {
+    margin-top: 30px;
+    font-family: 'Quicksand', sans-serif;
+    width: 80%;
+    font-size: 19px;
+    line-height: 30px;
+    color: #414141;
+}

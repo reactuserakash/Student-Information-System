@@ -1,0 +1,11 @@
+.addcurriculam-form {
+    list-style: none;
+    display: inline-block;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.addcurriculam-form li {
+    margin: 10px 0px;
+    width: 30%;
+    display: inline-block;
+}

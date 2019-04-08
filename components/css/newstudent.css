@@ -1,0 +1,72 @@
+.request-card {
+    padding: 10px 20px;
+    width: 300px;
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .6);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.request-card p {
+    margin: 5px 0;
+}
+
+.request-card-name {
+    font-size: 20px;
+}
+
+.request-card-reg-number,
+.request-card-department {
+    font-size: 15px;
+}
+
+.new-student-list {
+    list-style: none;
+}
+
+.new-student-list li {
+    margin: 18px;
+    display: inline-block;
+}
+
+.add-new-btn {
+    margin-top: 10px;
+    border: none;
+    background-color:  rgb(61, 10, 243);
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 9px 17px;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
+
+.add-new-btn-delete {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 10px 17px;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    background-color: red;
+}
+
+.accept-reject {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+.accept-reject li {
+    display: inline-block;
+}

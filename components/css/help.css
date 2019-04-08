@@ -1,0 +1,35 @@
+.help-page {
+    padding-top: 30px;
+    height: 100vh;
+    background-image: url("./../../assets/help_bg.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Quicksand', sans-serif;    
+}
+
+.HelpTextDiv {
+    padding-left: 5%;
+    text-align: left;
+    max-width: 50%;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+
+
+
+.problem-name {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.problem-solution {
+    line-height: 25px;
+    text-align: justify;
+    width: 80%;
+    margin-left: 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    color: #414141;
+}

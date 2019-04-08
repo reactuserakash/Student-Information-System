@@ -1,0 +1,49 @@
+.home-page {
+    padding-top: 30px;
+    height: 100vh;
+    background-image: url("./../../assets/home_bg.png");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.HeroTextDiv {
+    text-align: left;
+    max-width: 90%;
+    margin: auto;
+}
+
+.hero-text {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    line-height: 70px;
+    color: #353535;
+}
+
+.hero-sub-text {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    word-spacing: 2px;
+    margin-bottom: 30px;
+    color: #848484;
+}
+
+.hero-register-button {
+    border-color: none;
+    background-color:  #265DFB;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 17px;
+    font-size: 15px;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+    font-family: 'Quicksand', sans-serif;
+}

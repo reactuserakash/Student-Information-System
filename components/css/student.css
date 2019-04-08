@@ -1,0 +1,146 @@
+.student-page {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 100vh;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.print-btn {
+    border-color: none;
+    background-color:  #265DFB;
+    color: #fff;
+    outline: none;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 10px 17px;
+    font-size: 15px;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
+
+.student_page_full {
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+
+.student-menu {
+    padding: 30px;
+    height: 100vh;
+    background-color:#fff;
+}
+
+.menu-ii {
+    text-transform: uppercase;
+    color: gray;
+    font-size: 17px;
+}
+
+.student-menu-list {
+    list-style: none;
+}
+
+.admin-menu-list {
+    list-style: none;
+    font-size: 15px;
+}
+
+.admin-menu-list li {
+    text-decoration: none;
+    margin: 10px;
+    text-align: left;
+}
+
+.admin-menu-list li a {
+    text-decoration: none;
+}
+
+.student-menu-list li {
+    margin: 20px;
+}
+.student-menu-list li a {
+    text-decoration: none;
+}
+
+.ls-i-name {
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-left: 30px;
+    color: #265DFB;
+    text-transform: uppercase;
+}
+
+
+
+.student-content {
+    padding: 30px;
+    background-color: rgb(243, 243, 243);
+    font-family: 'Quicksand', sans-serif;    
+}
+
+.profile-header {
+    font-size: 30px;
+    color: rgb(61, 61, 61);
+}
+
+.profile-box {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin: auto;
+    width: 90%;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.s-first{
+    padding: 30px;
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.first-1 {
+    font-size: 30px;
+    margin-bottom: 0;
+    color: #666666;
+}
+
+.first-2 {
+    margin-top: 0px;
+    color: #666666;
+
+}
+
+.info-header {
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #265DFB;
+}
+
+.info-holder {
+    padding-left: 30px;
+}
+
+.info-section {
+    padding: 0 30px;
+    border-bottom: 1px solid rgb(204, 204, 204);  
+}
+
+.info-list {
+    list-style: none;
+}
+
+.info-list li {
+    display: inline-block;
+    width: 45%;
+}
+
+.field-name {
+    color: #6e6e6e;
+    font-size: 15px;
+}
+
+

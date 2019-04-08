@@ -1,0 +1,30 @@
+.cv {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 30px;   
+}
+
+.college-name{
+    text-align: center;
+    color: blue;
+}
+
+.college-name p {
+    font-size: 17px;
+    margin: 0;
+}
+
+.nit-dgp-cv-logo{
+    height: 100px;
+    width: auto;
+}
+
+.cvdetails {
+    padding-left:20%;
+}
+
+.cvdetails p span {
+    font-weight: bold;
+}

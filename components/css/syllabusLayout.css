@@ -1,0 +1,21 @@
+.syllabus-form {
+	width: 100%;
+	list-style: none;
+    font-family: 'Quicksand', sans-serif;
+}
+.syllabus-form li {
+	display: inline-block;
+}
+
+.example {
+	color: rgb(116, 116, 116);
+}
+
+.example li {
+	margin: 0px 10px;
+}
+
+.ex-type {
+	font-weight: bold;
+}
+
